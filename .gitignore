@@ -1,0 +1,8 @@
+bin/
+obj/
+.vscode/
+Library/
+Logs/
+Packages/
+projectSettings/
+Usersettings/
